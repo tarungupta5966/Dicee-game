@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  font-family: cursive;
+  background-color: #5e5e5e;
+  color: #71F9E7;
+}
+
+h1{
+  font-size: 6rem;
+  margin:3%
+}
+
+h3{
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+.player{
+  display: inline-block;
+  margin: 0 8%;
+}
+
+img{
+  width:80%;
+}
+
+footer{
+  font-size: 1.5rem;
+  margin-top: 5%;
+  color: #fff;
+}
